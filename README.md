@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @subashCognitive
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Golang
 - 📫 How to reach me - subashm@cognitiveclouds.com
 
 <!---
